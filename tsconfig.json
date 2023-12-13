@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "baseUrl": "src"
+  },
+  "include": ["src/**/*", "index.ts"]
+}
